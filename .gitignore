@@ -1,0 +1,3 @@
+*.o
+mpu_reader
+pressure_reader
